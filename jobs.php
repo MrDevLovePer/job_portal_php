@@ -47,7 +47,7 @@ require_once("db.php");
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>J</b>P</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="logo-lg"><b>Softufon Job</b>Portal</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -176,7 +176,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2023 <a href="https://softufon.com">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2023 <a href="https://softufon.com">Softufon JobPortal</a>.</strong> All rights
     reserved.
     </div>
   </footer>
