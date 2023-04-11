@@ -1,4 +1,13 @@
-<!-- Developed By: Pavan Kumar, Mr.DevLovePer https://t.me/DevLovePer -->
+<!-- 
+  
+  Developed By: Pavan Kumar, Mr.DevLovePer 
+  Connect me on 
+  telegram: https://t.me/DevLovePer
+  github: https://github.com/MrDevLovePer
+  Instagram: https://instagram.com/MrDevLovePer
+  Twitter: https://twitter.com/DevLovePer
+  
+-->
 
 <?php
 
